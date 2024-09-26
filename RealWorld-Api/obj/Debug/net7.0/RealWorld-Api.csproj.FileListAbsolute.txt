@@ -64,3 +64,7 @@
 /Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/obj/Debug/net7.0/RealWorld-Api.pdb
 /Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/obj/Debug/net7.0/RealWorld-Api.genruntimeconfig.cache
 /Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/obj/Debug/net7.0/ref/RealWorld-Api.dll
+/Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/bin/Debug/net7.0/Humanizer.dll
+/Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/kishorpadmanabhan/Documents/GoLang_Drive/Repo/C#/tw-workshop/realworld-starter-kit/RealWorld-Api/bin/Debug/net7.0/System.CodeDom.dll

@@ -40,7 +40,8 @@ namespace RealWorld_Api.Repositories
             {
                 Email = request.Email,
                 Username = request.Username,
-                PasswordHash = _passwordHasher.Hash(request.Password)
+                PasswordHash = _passwordHasher.Hash(request.Password),
+                Password = _passwordHasher.Hash(request.Password)
             };
 
             _context.Users.Add(newUser);

@@ -9,6 +9,7 @@ using RealWorld_Api.Services;
 using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore.Sqlite;
 using RealWorld_Api.Helpers;
+using Microsoft.EntityFrameworkCore.Design;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -56,3 +57,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+public partial class Program { }

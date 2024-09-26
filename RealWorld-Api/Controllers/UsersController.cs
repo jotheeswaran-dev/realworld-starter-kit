@@ -41,6 +41,7 @@ namespace RealWorld_Api.Controllers
             var user = await _userService.GetCurrentUser();
             return Ok(user);
         }
+        
         //add a new method to the UsersController class that will handle PUT requests to the /api/user endpoint.
         [HttpPut(Name = "UpdateUser")]
         public async Task<ActionResult<UserResponse>> UpdateUser([FromBody] UpdateUserRequest request)
